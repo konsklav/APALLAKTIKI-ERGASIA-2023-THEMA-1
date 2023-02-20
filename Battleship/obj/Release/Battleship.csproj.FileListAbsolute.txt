@@ -1,0 +1,11 @@
+C:\Users\test\Documents\c# apps\Battleship\Battleship\bin\Release\Battleship.exe.config
+C:\Users\test\Documents\c# apps\Battleship\Battleship\bin\Release\Battleship.exe
+C:\Users\test\Documents\c# apps\Battleship\Battleship\bin\Release\Battleship.pdb
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Release\Battleship.csproj.AssemblyReference.cache
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Release\Battleship.csproj.SuggestedBindingRedirects.cache
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Release\Battleship.Form1.resources
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Release\Battleship.Properties.Resources.resources
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Release\Battleship.csproj.GenerateResource.cache
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Release\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Release\Battleship.exe
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Release\Battleship.pdb

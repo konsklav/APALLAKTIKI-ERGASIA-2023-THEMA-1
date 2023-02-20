@@ -1,0 +1,46 @@
+C:\Users\test\Documents\c# apps\Battleship\Battleship\bin\Debug\Battleship.exe.config
+C:\Users\test\Documents\c# apps\Battleship\Battleship\bin\Debug\Battleship.exe
+C:\Users\test\Documents\c# apps\Battleship\Battleship\bin\Debug\Battleship.pdb
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Debug\Battleship.csproj.AssemblyReference.cache
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Debug\Battleship.csproj.SuggestedBindingRedirects.cache
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Debug\Battleship.Form1.resources
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Debug\Battleship.Properties.Resources.resources
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Debug\Battleship.csproj.GenerateResource.cache
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Debug\Battleship.exe
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Debug\Battleship.pdb
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Debug\Battleship.Form2.resources
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Debug\Battleship.Form3.resources
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Debug\Battleship.Form4.resources
+C:\Users\test\Documents\c# apps\Battleship\Battleship\bin\Debug\EntityFramework.dll
+C:\Users\test\Documents\c# apps\Battleship\Battleship\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\test\Documents\c# apps\Battleship\Battleship\bin\Debug\System.Data.SQLite.dll
+C:\Users\test\Documents\c# apps\Battleship\Battleship\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\test\Documents\c# apps\Battleship\Battleship\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\test\Documents\c# apps\Battleship\Battleship\bin\Debug\EntityFramework.xml
+C:\Users\test\Documents\c# apps\Battleship\Battleship\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\test\Documents\c# apps\Battleship\Battleship\bin\Debug\System.Data.SQLite.xml
+C:\Users\test\Documents\c# apps\Battleship\Battleship\obj\Debug\Battleship.csproj.CopyComplete
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\bin\Debug\Battleship.exe.config
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\bin\Debug\Battleship.exe
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\bin\Debug\Battleship.pdb
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\bin\Debug\EntityFramework.dll
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\bin\Debug\EntityFramework.SqlServer.dll
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\bin\Debug\System.Data.SQLite.dll
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\bin\Debug\EntityFramework.xml
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\bin\Debug\EntityFramework.SqlServer.xml
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\bin\Debug\System.Data.SQLite.xml
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\obj\Debug\Battleship.csproj.AssemblyReference.cache
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\obj\Debug\Battleship.csproj.SuggestedBindingRedirects.cache
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\obj\Debug\Battleship.Form1.resources
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\obj\Debug\Battleship.Form2.resources
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\obj\Debug\Battleship.Form3.resources
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\obj\Debug\Battleship.Form4.resources
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\obj\Debug\Battleship.Properties.Resources.resources
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\obj\Debug\Battleship.csproj.GenerateResource.cache
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\obj\Debug\Battleship.csproj.CopyComplete
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\obj\Debug\Battleship.exe
+C:\Σχολή\3ο Εξάμηνο\A.A.E. με C#\Personal Projects\Battleship\Battleship\obj\Debug\Battleship.pdb
